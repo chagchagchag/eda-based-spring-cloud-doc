@@ -53,8 +53,8 @@ defaults:
       path: _docs
     values:
       layout: docs
-      # permalink: /:slugified_categories/:title/
-      permalink: /:categories/:title/
+      permalink: /:slugified_categories/:title/
+      # permalink: /:categories/:title/
   # - scope:
   #     type: tutorials
   #     path: _tutorials
