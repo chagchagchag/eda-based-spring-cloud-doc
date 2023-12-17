@@ -1,4 +1,4 @@
 # Specify custom order of categories (Docs)
 order:
  - Architecture
- - Screenshot
+ - CI-CD
