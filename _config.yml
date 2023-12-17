@@ -53,7 +53,7 @@ defaults:
       path: _docs
     values:
       layout: docs
-      permalink: /:slugified_categories/:title/
+      permalink: /eda-based-spring-cloud-doc/:slugified_categories/:title/
       # permalink: /:categories/:title/
   # - scope:
   #     type: tutorials
