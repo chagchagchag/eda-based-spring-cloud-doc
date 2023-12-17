@@ -1,6 +1,6 @@
 ---
 title: Another article
-category: Sample-category
+category: Sample category
 order: 0
 ---
 
