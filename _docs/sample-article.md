@@ -1,6 +1,6 @@
 ---
-title: Sample article
-category: Sample category
+title: Spring Cloud 구성
+category: Architecture
 order: -1
 ---
 
