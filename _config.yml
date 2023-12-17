@@ -35,6 +35,7 @@ excerpt-length: 20
 collections:
   docs:
     output: true
+    permalink: /:collection/:path
   tutorials:
     output: true
 
