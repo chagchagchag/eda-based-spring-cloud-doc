@@ -56,7 +56,7 @@ defaults:
       path: _docs
     values:
       layout: docs
-      permalink: /:baseurl/:slugified_categories/:title/
+      permalink: /:slugified_categories/:title/
       # permalink: /:categories/:title/
   # - scope:
   #     type: tutorials
