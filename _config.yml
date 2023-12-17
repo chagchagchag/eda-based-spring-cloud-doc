@@ -1,7 +1,7 @@
 # Global site settings
 title: bytewax
-url: 'https://chagchagchag.github.io'
-baseurl: '/eda-based-spring-cloud-doc'
+url: 'https://chagchagchag.github.io/eda-based-spring-cloud-doc'
+# baseurl: '/eda-based-spring-cloud-doc'
 author: Soon Good Jung
 email: chagchagchag.dev@gmail.com
 language: en
