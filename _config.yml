@@ -48,12 +48,12 @@ defaults:
       path: _pages
     values:
       is_post: false
-  # - scope:
-  #     type: docs
-  #     path: _docs
-  #   values:
-  #     layout: docs
-  #     permalink: /:slugified_categories/:title/
+  - scope:
+      type: docs
+      path: _docs
+    values:
+      layout: docs
+      permalink: /:slugified_categories/:title/
   # - scope:
   #     type: tutorials
   #     path: _tutorials
