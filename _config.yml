@@ -54,12 +54,12 @@ defaults:
     values:
       layout: docs
       permalink: /:slugified_categories/:title/
-  - scope:
-      type: tutorials
-      path: _tutorials
-    values:
-      layout: tutorial
-      permalink: /tutorials/:title/
+  # - scope:
+  #     type: tutorials
+  #     path: _tutorials
+  #   values:
+  #     layout: tutorial
+  #     permalink: /tutorials/:title/
 
 # Include additional folders
 include:
