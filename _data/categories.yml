@@ -1,7 +1,6 @@
 # Specify custom order of categories (Docs)
 order:
  - Intro
- - Screenshot
  - Architecture
  - CI-CD
  - Code Style
